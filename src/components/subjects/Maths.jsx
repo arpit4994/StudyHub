@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Maths = () => {
+
   return (
     <div>
       
